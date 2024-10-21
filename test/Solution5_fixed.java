@@ -1,3 +1,5 @@
+package test;
+
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
@@ -45,7 +47,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
  * 1 <= target <= 106
  *
  */
-public class Solution5 {
+public class Solution5_fixed {
     static final int P = 1000000007;
     static final int MAX_N = 10000;
 
